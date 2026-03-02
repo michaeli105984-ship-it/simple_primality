@@ -1,10 +1,9 @@
 """
 Filename: simple_primality.py
-Author: <NAME>
-Created: <DATE>
+Author: <Fontaine, Michael>
+Created: <3/2/2026>
 Instructor: Holtslander
 """
-
 def prime():
     print("Enter a non-negative whole number greater than 1 on the line below.")
     
@@ -33,3 +32,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+
